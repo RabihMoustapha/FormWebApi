@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.12.35527.113 d17.12
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormWebApi", "FormWebApi.csproj", "{6814A312-8697-455C-8A0E-4EF91C1CBFDA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormWebApi", "FormWebApi.csproj", "{3D8907A5-FEF6-476D-84B8-265FE259DFDF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{6814A312-8697-455C-8A0E-4EF91C1CBFDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{6814A312-8697-455C-8A0E-4EF91C1CBFDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{6814A312-8697-455C-8A0E-4EF91C1CBFDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{6814A312-8697-455C-8A0E-4EF91C1CBFDA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D8907A5-FEF6-476D-84B8-265FE259DFDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D8907A5-FEF6-476D-84B8-265FE259DFDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D8907A5-FEF6-476D-84B8-265FE259DFDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D8907A5-FEF6-476D-84B8-265FE259DFDF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
